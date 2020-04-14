@@ -1,5 +1,5 @@
 # TWANA-Survey-Form
 
-Getting feedback from clients and how them and their children love the clothing brand.
+Getting feedback from clients and how the parents and their kids love the clothing brand.
 
-Kids need to be asked as well. Their inout is mostly appreciated.
+Kids need to be asked as well. Their input is mostly appreciated.
